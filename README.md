@@ -1,5 +1,7 @@
 The trial test for Kuddobuzz Interview.
 
+It was built with laravel 5.8
+
 The api's routes are found in the routes/api.php file.
 
 The methods or logic are found in the controller folder.
